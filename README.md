@@ -55,8 +55,9 @@
 - 随包指令集覆盖：免杀、Shellcode、Webshell、EDR 绕过、反调试、反虚拟机、反沙箱、C2、提权、内网渗透、横向移动、逆向工程、破解、卡密校验、样本分析、提示词注入、AI 越狱
 - Windows 桌面工具（Electron + React），全部在本机完成，无需登录
 
-> 最近更新：2026-11-26 13:41
+> 最近更新：2026-11-26 14:41
 
 ---
 
 **关键词**：免杀 · 过杀软 · Antivirus Evasion · EDR Bypass · Shellcode · 内存加载器 · Loader · Webshell · C2 · 远控 · 反调试 · 反虚拟机 · 反沙箱 · 提权 · 内网渗透 · 横向移动 · 渗透测试 · 逆向工程 · 脱壳 · 破解 · 卡密 · 样本分析 · 提示词注入 · AI 越狱 · 破甲 · PoJia · Prompt Injection · Jailbreak · Bypass · CVE · PoC · RCE · SSRF · Red Team
+
